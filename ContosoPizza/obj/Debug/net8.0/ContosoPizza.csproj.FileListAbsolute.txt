@@ -1,0 +1,64 @@
+C:\Users\marti\OneDrive - University of South Florida\IEX\ContosoPizza\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\marti\OneDrive - University of South Florida\IEX\ContosoPizza\bin\Debug\net8.0\appsettings.json
+C:\Users\marti\OneDrive - University of South Florida\IEX\ContosoPizza\bin\Debug\net8.0\ContosoPizza.exe
+C:\Users\marti\OneDrive - University of South Florida\IEX\ContosoPizza\bin\Debug\net8.0\ContosoPizza.deps.json
+C:\Users\marti\OneDrive - University of South Florida\IEX\ContosoPizza\bin\Debug\net8.0\ContosoPizza.runtimeconfig.json
+C:\Users\marti\OneDrive - University of South Florida\IEX\ContosoPizza\bin\Debug\net8.0\ContosoPizza.dll
+C:\Users\marti\OneDrive - University of South Florida\IEX\ContosoPizza\bin\Debug\net8.0\ContosoPizza.pdb
+C:\Users\marti\OneDrive - University of South Florida\IEX\ContosoPizza\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\marti\OneDrive - University of South Florida\IEX\ContosoPizza\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\marti\OneDrive - University of South Florida\IEX\ContosoPizza\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\marti\OneDrive - University of South Florida\IEX\ContosoPizza\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\marti\OneDrive - University of South Florida\IEX\ContosoPizza\obj\Debug\net8.0\ContosoPizza.csproj.AssemblyReference.cache
+C:\Users\marti\OneDrive - University of South Florida\IEX\ContosoPizza\obj\Debug\net8.0\ContosoPizza.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marti\OneDrive - University of South Florida\IEX\ContosoPizza\obj\Debug\net8.0\ContosoPizza.AssemblyInfoInputs.cache
+C:\Users\marti\OneDrive - University of South Florida\IEX\ContosoPizza\obj\Debug\net8.0\ContosoPizza.AssemblyInfo.cs
+C:\Users\marti\OneDrive - University of South Florida\IEX\ContosoPizza\obj\Debug\net8.0\ContosoPizza.csproj.CoreCompileInputs.cache
+C:\Users\marti\OneDrive - University of South Florida\IEX\ContosoPizza\obj\Debug\net8.0\ContosoPizza.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\marti\OneDrive - University of South Florida\IEX\ContosoPizza\obj\Debug\net8.0\ContosoPizza.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\marti\OneDrive - University of South Florida\IEX\ContosoPizza\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\marti\OneDrive - University of South Florida\IEX\ContosoPizza\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\marti\OneDrive - University of South Florida\IEX\ContosoPizza\obj\Debug\net8.0\staticwebassets\msbuild.ContosoPizza.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\marti\OneDrive - University of South Florida\IEX\ContosoPizza\obj\Debug\net8.0\staticwebassets\msbuild.build.ContosoPizza.props
+C:\Users\marti\OneDrive - University of South Florida\IEX\ContosoPizza\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.ContosoPizza.props
+C:\Users\marti\OneDrive - University of South Florida\IEX\ContosoPizza\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.ContosoPizza.props
+C:\Users\marti\OneDrive - University of South Florida\IEX\ContosoPizza\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\marti\OneDrive - University of South Florida\IEX\ContosoPizza\obj\Debug\net8.0\scopedcss\bundle\ContosoPizza.styles.css
+C:\Users\marti\OneDrive - University of South Florida\IEX\ContosoPizza\obj\Debug\net8.0\ContosoP.D63404F9.Up2Date
+C:\Users\marti\OneDrive - University of South Florida\IEX\ContosoPizza\obj\Debug\net8.0\ContosoPizza.dll
+C:\Users\marti\OneDrive - University of South Florida\IEX\ContosoPizza\obj\Debug\net8.0\refint\ContosoPizza.dll
+C:\Users\marti\OneDrive - University of South Florida\IEX\ContosoPizza\obj\Debug\net8.0\ContosoPizza.pdb
+C:\Users\marti\OneDrive - University of South Florida\IEX\ContosoPizza\obj\Debug\net8.0\ContosoPizza.genruntimeconfig.cache
+C:\Users\marti\OneDrive - University of South Florida\IEX\ContosoPizza\obj\Debug\net8.0\ref\ContosoPizza.dll
+C:\ContosoPizza\bin\Debug\net8.0\appsettings.Development.json
+C:\ContosoPizza\bin\Debug\net8.0\appsettings.json
+C:\ContosoPizza\bin\Debug\net8.0\ContosoPizza.exe
+C:\ContosoPizza\bin\Debug\net8.0\ContosoPizza.deps.json
+C:\ContosoPizza\bin\Debug\net8.0\ContosoPizza.runtimeconfig.json
+C:\ContosoPizza\bin\Debug\net8.0\ContosoPizza.dll
+C:\ContosoPizza\bin\Debug\net8.0\ContosoPizza.pdb
+C:\ContosoPizza\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\ContosoPizza\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\ContosoPizza\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\ContosoPizza\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\ContosoPizza\obj\Debug\net8.0\ContosoPizza.csproj.AssemblyReference.cache
+C:\ContosoPizza\obj\Debug\net8.0\ContosoPizza.GeneratedMSBuildEditorConfig.editorconfig
+C:\ContosoPizza\obj\Debug\net8.0\ContosoPizza.AssemblyInfoInputs.cache
+C:\ContosoPizza\obj\Debug\net8.0\ContosoPizza.AssemblyInfo.cs
+C:\ContosoPizza\obj\Debug\net8.0\ContosoPizza.csproj.CoreCompileInputs.cache
+C:\ContosoPizza\obj\Debug\net8.0\ContosoPizza.MvcApplicationPartsAssemblyInfo.cs
+C:\ContosoPizza\obj\Debug\net8.0\ContosoPizza.MvcApplicationPartsAssemblyInfo.cache
+C:\ContosoPizza\obj\Debug\net8.0\staticwebassets.build.json
+C:\ContosoPizza\obj\Debug\net8.0\staticwebassets.development.json
+C:\ContosoPizza\obj\Debug\net8.0\staticwebassets\msbuild.ContosoPizza.Microsoft.AspNetCore.StaticWebAssets.props
+C:\ContosoPizza\obj\Debug\net8.0\staticwebassets\msbuild.build.ContosoPizza.props
+C:\ContosoPizza\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.ContosoPizza.props
+C:\ContosoPizza\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.ContosoPizza.props
+C:\ContosoPizza\obj\Debug\net8.0\staticwebassets.pack.json
+C:\ContosoPizza\obj\Debug\net8.0\scopedcss\bundle\ContosoPizza.styles.css
+C:\ContosoPizza\obj\Debug\net8.0\ContosoP.D63404F9.Up2Date
+C:\ContosoPizza\obj\Debug\net8.0\ContosoPizza.dll
+C:\ContosoPizza\obj\Debug\net8.0\refint\ContosoPizza.dll
+C:\ContosoPizza\obj\Debug\net8.0\ContosoPizza.pdb
+C:\ContosoPizza\obj\Debug\net8.0\ContosoPizza.genruntimeconfig.cache
+C:\ContosoPizza\obj\Debug\net8.0\ref\ContosoPizza.dll
